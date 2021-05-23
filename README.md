@@ -1,0 +1,1 @@
+This project contains the using of python langauage in analyzing data and also  using of different machine learning models to test results. Helping to make a better decision on the model to pick for the project.
